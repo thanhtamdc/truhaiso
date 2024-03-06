@@ -1,0 +1,27 @@
+{
+  "name": "truhaiso",
+  "version": "1.0.2",
+  "description": "Một thư viện giúp bạn tính hiệu của 2 số bất kỳ Đơn giản, dễ dùng và nhẹ",
+  "main": "tru.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhtamdc/truhaiso.git"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "keywords": [
+    "tru",
+    "subtraction"
+  ],
+  "author": "DCTT",
+  "license": "MIT",
+  "dependencies": {
+    "conghaiso": "^1.0.0",
+    "truhaiso": "^1.0.0"
+  }
+}
